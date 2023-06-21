@@ -5,7 +5,7 @@
  *
  * Purpose - no hardcode
  *
- * Return:  (Success)
+ * Return: 0 (Success)
  */
 
 int main(void)
